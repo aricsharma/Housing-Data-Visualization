@@ -1,4 +1,4 @@
-# California Housing Data Visualization
+# Housing Data Visualization
 
 This project creates an interactive map to visualize housing data from the California Housing Dataset using Python. Each data point is represented by a circle marker scaled by the average number of rooms and color-coded by median house value. The resulting map is saved as an HTML file, making it easy to explore and share insights visually.
 
